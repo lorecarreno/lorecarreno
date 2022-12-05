@@ -18,8 +18,5 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@nuskadesign) 
   
   
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
