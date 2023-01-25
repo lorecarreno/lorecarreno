@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍧I'm currently working as a Graphic Designer.<br>💚I'm currently learning Web Design at Platzi.
+I'am a Holberton Student 
 
 
 ## 🌐 Socials:
