@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi!, I'm Lore</h1>
 <h3 align="center">A software engineering student from Uruguay</h3>
 
-- 🌱 I’m currently learning **C at Holberton School**
+- 🌱 I’m currently learning C
 
 - 💬 Ask me about **JS, CSS, HTML, REACT**
 
